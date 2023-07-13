@@ -175,7 +175,7 @@ async function handleRequest(request) {
 
   console.log(path)
   if(!path){
-    return Response.redirect("https://kjkkk.top", 302)
+    return Response.redirect("https://www.baidu.com", 302)
     /* new Response(html404, {
       headers: {
         "content-type": "text/html;charset=UTF-8",
